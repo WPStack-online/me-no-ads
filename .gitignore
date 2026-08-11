@@ -1,0 +1,10 @@
+# WordPress plugin gitignore
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+vendor/
+.vscode/
+.idea/
+*.zip
+*.tar.gz
