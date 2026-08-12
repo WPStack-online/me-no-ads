@@ -42,3 +42,15 @@ git clone https://github.com/wpstack/me-no-ads.git
 
 Distributed under the **GNU General Public License v3.0**.  
 Maintained with ❤️ by **[WPStack - Custom WordPress Plugin Development Studio](https://wpstack.online/)**.
+
+---
+
+## 🌐 Connect with WPStack
+
+* 🌐 **Website**: [WPStack.online](https://wpstack.online/)
+* 🕮 **Blog & Guides**: [WPStack Insights](https://wpstack.online/blog/)
+* 𝕏 **X (Twitter)**: [@WPStackOnline](https://x.com/WPStackOnline)
+* 💼 **LinkedIn**: [WPStack Company Page](https://www.linkedin.com/company/wpstack/)
+* 📺 **YouTube**: [@WPStackOnline](https://www.youtube.com/@WPStackOnline)
+* 📘 **Facebook**: [WPStack Facebook Page](https://www.facebook.com/wpstack/)
+* 📸 **Instagram**: [@wpstackonline](https://www.instagram.com/wpstackonline/)
